@@ -300,6 +300,59 @@ footer.second p {
 	nav li {
 		text-align: center;
 		width: 100%;
-		
 	}
+  .one-third {
+		width: 100%;
+		float: left;
+
+	}
+	.icon-wrap{
+		height: 80px;
+		width: 80px;
+		margin-top: 3%;
+	}
+	.icon-wrap i {
+		font-size: 250%;
+		padding-top: 27%;
+	}
+	.left-col {
+		width: 100%;
+	  padding: 0;
+
+	}
+	.sidebar{
+		width: 100%;
+
+	}
+	.one-third-padding {
+		width: 98%;
+		margin: 0;
+		padding: 1%;
+
+	}
+	.icon-text-icon {
+		width: 100%;
+		padding: 0 0 2% 0;
+
+	}
+	.icon-text-text {
+		width: 100%;
+		padding: 2% 0 0 0;
+		font-size: 80%;
+	}
+	.footer-nav{
+		text-align: center;
+		padding-top: 5%;
+
+	}
+	.footer-nav li {
+		padding: 1%;
+	}
+	.footer-nav a{
+		font-size: 145%;
+	}
+	.social i {
+		font-size: 180%;
+	}
+
 }
