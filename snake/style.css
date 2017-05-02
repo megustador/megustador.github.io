@@ -1,0 +1,45 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  align-items: center;
+  background-image: url(http://www.brus.com/wp-content/uploads/2014/06/classic-snake-background.png);
+}
+
+.wrapper {
+  text-align: center;
+
+}
+
+.wrapper h1 {
+  font-family: fantasy;
+  font-size: 70px;
+  margin-bottom: 20px;
+   text-shadow: 2px 2px 8px #FF0000;
+}
+
+.space {
+  float: left;
+  width: 650px;
+  height: 150px;
+}
+
+canvas {
+  border: 4px solid black;
+  align-items: center;
+  box-shadow: 13px 13px 11px #888888;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+
+
+}
+
+h2 {
+  text-align: center;
+}
