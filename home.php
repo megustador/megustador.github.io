@@ -24,10 +24,10 @@
             <nav>
               <a href="#" id="menu-icon"></a>
               <ul>
-                <li><a href="index.html" class="current">Home</a></li>
+                <li><a href="home.php" class="current">Home</a></li>
                 <li><a href="portofolio.html">Portofolio</a></li>
-                <li><a href="registration.html">Log in</a></li>
-                <li><a href="reviews.html">Contact us</a></li>
+                <li><a href="index.html">Log out</a></li>
+                <li><a href="#">Contact us</a></li>
               </ul>
             </nav>
         </div>
@@ -154,9 +154,9 @@
 		<div class="icon-text">
 			<div class="icon-text-icon">
 				<ul class="footer-nav">
-					<li><a href="index.html">Home</a></li>
+					<li><a href="home.php">Home</a></li>
 					<li><a href="portofolio.html">Portofolio</a></li>
-					<li><a href="registration.html">Log in</a></li>
+					<li><a href="index.html">Log out</a></li>
 					<li><a href="#">Contact us</a></li>
 				</ul>
 			</div>

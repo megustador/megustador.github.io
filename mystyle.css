@@ -264,6 +264,57 @@ footer.second p {
 	line-height: 155%;
 }
 
+.works {
+	margin: auto;
+	padding: 10px;
+	display: block;
+}
+
+.wow {
+	width: 740px;
+	height: 470px;
+	margin: auto;
+	padding: 0 0 50px 0;
+}
+
+}
+.wow a {
+	margin: auto;
+	display: block;
+}
+
+a img {
+
+	width: 740px;
+	height: 470px;
+
+	margin: 0 auto;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	border-radius: 10px;
+	max-width: 100%;
+  height: auto;
+	-webkit-filter: grayscale(0) blur(0);
+	filter: grayscale(0) blur(0);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+
+
+.wow:hover img {
+	-webkit-filter: grayscale(100%) blur(3px);
+	filter: grayscale(100%) blur(3px);
+}
+
+.uname {
+	margin: 0 auto;
+}
+
+.uname p{
+	font-size: 20px;
+}
+
 @media screen and (max-width: 768px) {
 	p {
 		font-size: 130%;
